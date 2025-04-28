@@ -1,0 +1,52 @@
+absl-py==2.2.2
+astunparse==1.6.3
+Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
+cachetools==5.5.2
+certifi==2025.1.31
+charset-normalizer==3.4.1
+flatbuffers==25.2.10
+gast==0.4.0
+google-auth==2.39.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.70.0
+h5py==3.11.0
+idna==3.10
+importlib_metadata==8.5.0
+keras==2.10.0
+Keras-Preprocessing==1.1.2
+libclang==18.1.1
+Markdown==3.7
+MarkupSafe==2.1.5
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
+numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
+oauthlib==3.2.2
+opt_einsum==3.4.0
+packaging==24.2
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1692213983661/work
+protobuf==3.19.6
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
+requests==2.32.3
+requests-oauthlib==2.0.0
+rsa==4.9.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow-cpu==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.31.0
+tensorflow_intel==2.10.0
+termcolor==2.4.0
+typing_extensions==4.13.2
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.2.3
+Werkzeug==3.0.6
+wrapt==1.17.2
+zipp==3.20.2
