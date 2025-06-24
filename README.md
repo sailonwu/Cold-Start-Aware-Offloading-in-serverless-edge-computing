@@ -70,6 +70,6 @@ Create an independent DQN agent for each IoT device
 
 Start the training process and output the results as a record array
 
-Step 3: Run Evaluation / Main Program
+### Step 3: Run Evaluation / Main Program
 python train/main.py
 
